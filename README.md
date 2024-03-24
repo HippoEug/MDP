@@ -7,5 +7,5 @@ MDP Code is built on [Group 28's](https://github.com/CZ3004-Group-28) code.
 Task 2:
 - task2.py is used for Task2 only, to be run on RPI
 - Ultrasonic sensor is placed on the front of the car
-- 2 IR sensors are placed on both the left and right sides of the car
+- 2 IR sensors are placed on both the left side and right side of the car
 - Task2 is really RNG.. good luck.
